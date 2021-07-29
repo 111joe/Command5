@@ -28,6 +28,7 @@ public class Main {
         String[] corAnswers14 = {"a,b,e"};
         String[] answers10 = {"a.Светлогорск", "b.Балтийск", "c.Калининград", "d.Калязин"};
         String[] corAnswers15 = {"a,b,c"};
+        
         Question[] questions = new Question[15];
 
         questions[0] = new Question("Столица Беларуси?", answers, corAnswers, "SCQ");
